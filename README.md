@@ -21,3 +21,36 @@ To run this notebook locally:
 ```bash
 git clone https://github.com/yourusername/LoveMatch.git
 cd LoveMatch
+Open the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook LoveMatch.ipynb
+Run all cells and enter the names when prompted.
+
+📦 Requirements
+Python 3.7+
+
+Jupyter Notebook
+
+Optionally:
+
+ipywidgets for a nicer UI (if included in the notebook)
+
+You can install the required packages using:
+
+bash
+Copy
+Edit
+pip install notebook ipywidgets
+🎉 Example
+vbnet
+Copy
+Edit
+Name 1: Romeo  
+Name 2: Juliet  
+
+❤️ Your compatibility score is 96%! You're a legendary love story in the making!
+📄 License
+This project is open-source and available under the MIT License.
